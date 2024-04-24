@@ -12,8 +12,8 @@ repo_url: https://github.com/GenomicsAotearoa/intro-to-containers
 theme:
   name: material
   custom_dir: ./overrides
-  logo: theme_images/nesi_logo.png
-  favicon: theme_images/nesi_logo.png
+  logo: images/nesi_ga.png
+  favicon: images/nesi_ga.png
    # 404 page
   static_templates:
     - 404.html
@@ -118,7 +118,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright : Snakemake workshop material is licensed under a <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>
+copyright : Reproducible computational environments using containers workshop material is licensed under a <a rel="noopener" target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License Version 3.0</a>
 
 
 extra_css:
