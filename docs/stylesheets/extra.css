@@ -1056,11 +1056,12 @@
   }
   .md-typeset .file-code-2 > .admonition-title,
   .md-typeset .file-code-2 > summary {
+    color:rgb(252, 207, 9, 0.479);
     background-color: rgba(252, 207, 9, 0.479);
   }
   .md-typeset .file-code-2 > .admonition-title::before,
   .md-typeset .file-code-2 > summary::before {
-    background-color: rgb(15, 37, 65);
+    background-color: rgba(252, 9, 9, 0.479);
     -webkit-mask-image: var(--md-admonition-icon--file-code-2);
             mask-image: var(--md-admonition-icon--file-code-2);
   }
