@@ -1,4 +1,8 @@
-# Reproducible computational environments using containers
+# <center>Reproducible computational environments using containers</center>
+
+<center>
+![image](./images/apptainer-primary.png){width="300"}
+</center>
 
 !!! circle-info ""
     
